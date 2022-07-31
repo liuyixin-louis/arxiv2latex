@@ -14,7 +14,7 @@ To facilitate our paper writing, we may usually need to download and copy the la
 
 ## Contribution
 
-Please read the [Contribution Guide](CONTRIBUTION.md)
+Please read the [Contribution Guide](CONTRIBUTION.md). Feel free to contact me to discuss (yixinliucs@gmail.com). 
 
 ## Donation
 
