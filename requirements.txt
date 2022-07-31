@@ -4,3 +4,4 @@ seaborn
 plotly
 tqdm
 bs4
+lxml
