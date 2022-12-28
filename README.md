@@ -6,7 +6,7 @@
 - 2022/12/28: Due to the update of Heroku service, I broguht the Eco Dynos Plan ($5/month, 1000h) to maintain the online API. If you free this tool helpful, some donation would be greatly appreciated!
 
 - BOFA: yqi16766@gmail.com
-- wechat pay: please find the QR code (here)[#wecahtPay]
+- wechat pay: please find the QR code [here](#wecahtPay)
 
 ## About Arxiv2Latex 
 - Download the source latex code of multiple arxiv papers with one click. 
