@@ -28,7 +28,7 @@ If you think **Arxiv2Latex** is helpful to you, you can support me here:
 
 <a href="https://www.buymeacoffee.com/yixin617" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 54px;" height="54"></a>
 
-<span id="wechatPay">![image-20221228180731110](https://s2.loli.net/2022/12/29/JpMY4iv1QXVSs8a.png)</span>
+<div id="wechatPay">![image-20221228180731110](https://s2.loli.net/2022/12/29/JpMY4iv1QXVSs8a.png)</div>
 Wechat pay
 
 ## License
