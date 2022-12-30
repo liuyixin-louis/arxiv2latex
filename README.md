@@ -1,6 +1,7 @@
-![Arxiv2Latex logo - an arrow pointing from "Arxiv" to "Latex"](Arxiv2latex.png)
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arxiv2latex.herokuapp.com/)
+
+![Arxiv2Latex logo - an arrow pointing from "Arxiv" to "Latex"](Arxiv2latex.png)
 
 ## NEWS
 - 2022/12/28: Due to the update of Heroku service, I broguht the Eco Dynos Plan ($5/month, 1000h) to maintain the online API. If you free this tool helpful, some donation would be greatly appreciated!
