@@ -37,8 +37,8 @@ def untar(fname, dirs):
     except Exception as e:
         print(e)
         return False
-def get_timestamp():
     
+def get_timestamp():
     ts = pd.to_datetime(str(datetime.datetime.now()))
     d = ts.strftime('%Y%m%d%H%M%S')
     return d
@@ -81,6 +81,6 @@ def download_source(pdf_lists=None,output_base=None,project_name=None,fetch_titl
         untar(filepath,outpath)
     archive_dir(out,os.path.join(base,project_name))
 
-
-# !unset https_proxy
-# !unset http_proxy
+if __name__ == '__main__':
+    s = get_timestamp()
+    print(s)    

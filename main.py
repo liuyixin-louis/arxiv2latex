@@ -41,7 +41,7 @@ if crawling_or_not:
         else:
             # parsing
             base='./download/'
-            project_name = get_timestamp()
+            project_name = get_timestamp().replace(" ","-")
             base = os.path.join(base,project_name)
             make_dir_if_not_exist(base)
             
