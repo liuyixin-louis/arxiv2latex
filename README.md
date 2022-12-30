@@ -1,6 +1,6 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arxiv2latex.herokuapp.com/)
 
-![arXiv2Latex logo - an arrow pointing from "arXiv" to "Latex"](/arXiv2latex.png)
+![arXiv2Latex logo - an arrow pointing from "arXiv" to "Latex"](/framework.png)
 
 ## NEWS
 
