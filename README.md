@@ -2,6 +2,12 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arxiv2latex.herokuapp.com/)
 
+## NEWS
+- 2022/12/28: Due to the update of Heroku service, I broguht the Eco Dynos Plan ($5/month, 1000h) to maintain the online API. If you free this tool helpful, some donation would be greatly appreciated!
+
+- BOFA: yqi16766@gmail.com
+- wechat pay: please find the QR code [here](#wechatPay)
+
 ## About Arxiv2Latex 
 - Download the source latex code of multiple arxiv papers with one click. 
 
@@ -21,6 +27,9 @@ Please read the [Contribution Guide](CONTRIBUTION.md). Also feel free to contact
 If you think **Arxiv2Latex** is helpful to you, you can support me here:
 
 <a href="https://www.buymeacoffee.com/yixin617" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 54px;" height="54"></a>
+
+<span id="wechatPay">![image-20221228180731110](https://s2.loli.net/2022/12/29/JpMY4iv1QXVSs8a.png)</span>
+Wechat pay
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
