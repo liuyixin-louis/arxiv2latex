@@ -14,12 +14,12 @@ import os
 import requests
 from backend import *
 
-st.set_page_config(page_title="Arxiv2Latex Donwloader", page_icon=":page_with_curl:", layout="wide", initial_sidebar_state="expanded", menu_items={
+st.set_page_config(page_title="arXiv2Latex Downloader", page_icon=":page_with_curl:", layout="wide", initial_sidebar_state="expanded", menu_items={
     "About": "Download the source latex code of multiple arXiv paper with one click"
 })
 
 # title
-st.title("Arxiv2Latex Donwloader")
+st.title("arXiv2Latex Downloader")
 
 # input arxiv links to download
 pdf_links_input = st.text_area("Please input the paper links you want to download following the format (Currently supports up to 10 links).", "")
