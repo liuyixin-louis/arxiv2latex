@@ -4,9 +4,10 @@
 
 ## NEWS
 
+- Please deploy this app locally since the online service will end on April 1, 2023, due to insufficiency of the fund. 
+
 - **2022/12/28: Due to the update of Heroku service, I brought the Eco Dynos Plan ($5/month, 1000h) to maintain the online API. If you free this tool helpful, some donations would be greatly appreciated!**
 
-- BOFA: yqi16766@gmail.com
 - WeChat pay: please find the QR code [here](#wechatPay)
 
 ## About arXiv2Latex 
