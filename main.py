@@ -14,6 +14,8 @@ import os
 import requests
 from backend import *
 
+predefined_limits = 10000
+
 st.set_page_config(page_title="arXiv2Latex Downloader", page_icon=":page_with_curl:", layout="wide", initial_sidebar_state="expanded", menu_items={
     "About": "Download the source latex code of multiple arXiv paper with one click"
 })
@@ -40,8 +42,8 @@ if crawling_or_not:
     pdf_lists = [i.strip() for i in pdf_lists if len(i) > 0]
     # TODO: limit the number of paper up to 10 since I am not sure that whether base64 support large file download
     try: 
-        if len(pdf_lists) > 10:
-            st.warning("Currently only support up to 10 papers. Please input less than 10 papers.")
+        if len(pdf_lists) > predefined_limits:
+            st.warning(f"Currently only support up to {predefined_limits} papers. Please input less than {predefined_limits} papers.")
         else:
             # parsing
             base='./download/'
