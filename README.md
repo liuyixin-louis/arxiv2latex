@@ -1,10 +1,10 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://arxiv2latex.herokuapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://huggingface.co/spaces/yixin6178/arXiv2Latex)
 
 ![arXiv2Latex logo - an arrow pointing from "arXiv" to "Latex"](/framework.png)
 
 ## NEWS
 
-- Please deploy this app locally since the online service will end on April 1, 2023, due to insufficiency of the fund. 
+- Thanks to the huggingface free Space, this app can be acessed online now: https://huggingface.co/spaces/yixin6178/arXiv2Latex
 
 ## About arXiv2Latex 
 
